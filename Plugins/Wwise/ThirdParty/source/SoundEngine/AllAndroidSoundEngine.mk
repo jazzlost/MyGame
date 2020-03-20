@@ -1,0 +1,33 @@
+workspace_ALLANDROIDSOUNDENGINE_PATH := $(call my-dir)
+
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../../samples/Plugins/AkAudioInput/Sources/AudioEngineFX/Android/AkAudioInputSourceAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkCompressor/Android/AkCompressorFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../../samples/Plugins/AkDelay/Sources/AudioEngineFX/Android/AkDelayFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkExpander/Android/AkExpanderFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkFlanger/Android/AkFlangerFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkGain/Android/AkGainFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkGuitarDistortion/Android/AkGuitarDistortionFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkHarmonizer/Android/AkHarmonizerFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkFDNReverb/Android/AkMatrixReverbFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/AkMemoryMgr/Android/AkMemoryMgrAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkMeter/Android/AkMeterFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/AkMusicEngine/Android/AkMusicEngineAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Codecs/AkOpusDecoder/Android/AkOpusDecoderAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkParametricEQ/Android/AkParametricEQFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkPeakLimiter/Android/AkPeakLimiterFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkPitchShifter/Android/AkPitchShifterFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkRecorder/Android/AkRecorderFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkRoomVerb/Android/AkRoomVerbFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Sources/AkSilenceSource/Android/AkSilenceSourceAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../../samples/Plugins/AkSineTone/Sources/AudioEngineFX/Android/AkSineSourceAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/AkAudiolib/Android/AkSoundEngineAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../SpatialAudio/Android/AkSpatialAudioAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkStereoDelay/Android/AkStereoDelayFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../StreamManager/Android/AkStreamMgr.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Sources/AkSynthOne/Android/AkSynthOneSourceAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkTimeStretch/Android/AkTimeStretchFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../../samples/Plugins/AkToneGenerator/Sources/AudioEngineFX/Android/AkToneSourceAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Plugins/Effects/AkTremolo/Android/AkTremoloFXAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Codecs/AkVorbisDecoder/Android/AkVorbisDecoderAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/Communication/Remote/Android/CommunicationCentralAndroid.mk
+include $(workspace_ALLANDROIDSOUNDENGINE_PATH)/../../samples/SoundEngine/Android/libzip/Android/zip.mk
