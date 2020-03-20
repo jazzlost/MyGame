@@ -1,0 +1,44 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Project_Own\\My Game\\MyShow2D\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "602021548",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SoundBank\\New_SoundBank1",
+    "ShortName": "New_SoundBank1",
+    "Path": "New_SoundBank1.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3714192570",
+      "Name": "huanyuan",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play\\huanyuan",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2494933636",
+      "Name": "LEFT2",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play\\LEFT2",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     }
+    ]
+   }
+  ]
+ }
+}

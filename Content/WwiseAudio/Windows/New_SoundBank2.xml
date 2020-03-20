@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>F:\Project_Own\My Game\UnrealWwiseDemo\</ProjectRoot>
+		<SourceFilesRoot>F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Project_Own\My Game\MyShow2D\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Project_Own\My Game\UnrealWwiseDemo\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="602021551" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SoundBank\New_SoundBank2</ObjectPath>
+			<ShortName>New_SoundBank2</ShortName>
+			<Path>New_SoundBank2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2494933637" Name="LEFT3" ObjectPath="\Events\Default Work Unit\Play\LEFT3" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

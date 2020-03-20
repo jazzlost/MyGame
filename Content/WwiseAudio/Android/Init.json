@@ -1,0 +1,24 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\.cache\\Android\\",
+   "SoundBanksRoot": "F:\\Project_Own\\My Game\\MyShow2D\\Content\\WwiseAudio\\Android\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\GeneratedSoundBanks\\Android"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

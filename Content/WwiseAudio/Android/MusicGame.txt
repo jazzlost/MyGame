@@ -1,0 +1,331 @@
+Event	ID	Name			Wwise Object Path	Notes
+	56461483	BackOption			\Default Work Unit\BackOption	
+	84696421	Z			\Default Work Unit\Play\Z	
+	84696422	Y			\Default Work Unit\Play\Y	
+	84696423	X			\Default Work Unit\Play\X	
+	84696424	W			\Default Work Unit\Play\W	
+	84696425	V			\Default Work Unit\Play\V	
+	84696426	U			\Default Work Unit\Play\U	
+	84696427	T			\Default Work Unit\Play\T	
+	84696428	S			\Default Work Unit\Play\S	
+	84696429	R			\Default Work Unit\Play\R	
+	84696430	Q			\Default Work Unit\Play\Q	
+	84696433	N			\Default Work Unit\Play\N	
+	84696434	M			\Default Work Unit\Play\M	
+	84696437	J			\Default Work Unit\Play\J	
+	84696439	H			\Default Work Unit\Play\H	
+	84696440	G			\Default Work Unit\Play\G	
+	84696441	F			\Default Work Unit\Play\F	
+	84696442	E			\Default Work Unit\Play\E	
+	84696443	D			\Default Work Unit\Play\D	
+	84696444	C			\Default Work Unit\Play\C	
+	84696445	B			\Default Work Unit\Play\B	
+	84696446	A			\Default Work Unit\Play\A	
+	165729053	ForIamTheMoon			\Default Work Unit\Play\ForIamTheMoon		412724365	BGM			\Default Work Unit\BGM	
+	646331219	jia			\Default Work Unit\Play\jia		731737678	option			\Default Work Unit\option	
+	800905317	Num8			\Default Work Unit\Play\Num8	
+	800905321	Num4			\Default Work Unit\Play\Num4		800905322	Num7			\Default Work Unit\Play\Num7	
+	800905324	Num1			\Default Work Unit\Play\Num1		800905326	Num3			\Default Work Unit\Play\Num3		800905327	Num2			\Default Work Unit\Play\Num2		917422773	Douhao			\Default Work Unit\Play\Douhao	
+	977828408	octaveOff			\Default Work Unit\Play\octaveOff	
+	1281810935	Start			\Default Work Unit\Play\Start	
+	1294097600	Release_Q			\Default Work Unit\Release\Release_Q	
+	1294097602	Release_S			\Default Work Unit\Release\Release_S	
+	1294097603	Release_R			\Default Work Unit\Release\Release_R	
+	1294097604	Release_U			\Default Work Unit\Release\Release_U	
+	1294097605	Release_T			\Default Work Unit\Release\Release_T	
+	1294097606	Release_W			\Default Work Unit\Release\Release_W	
+	1294097607	Release_V			\Default Work Unit\Release\Release_V	
+	1294097608	Release_Y			\Default Work Unit\Release\Release_Y	
+	1294097609	Release_X			\Default Work Unit\Release\Release_X	
+	1294097611	Release_Z			\Default Work Unit\Release\Release_Z	
+	1294097616	Release_A			\Default Work Unit\Release\Release_A		1294097618	Release_C			\Default Work Unit\Release\Release_C	
+	1294097619	Release_B			\Default Work Unit\Release\Release_B	
+	1294097620	Release_E			\Default Work Unit\Release\Release_E	
+	1294097621	Release_D			\Default Work Unit\Release\Release_D	
+	1294097622	Release_G			\Default Work Unit\Release\Release_G	
+	1294097623	Release_F			\Default Work Unit\Release\Release_F	
+	1294097625	Release_H			\Default Work Unit\Release\Release_H	
+	1294097627	Release_J			\Default Work Unit\Release\Release_J	
+	1294097628	Release_M			\Default Work Unit\Release\Release_M	
+	1294097631	Release_N			\Default Work Unit\Release\Release_N	
+	1559875400	Back			\Default Work Unit\Back	
+	1905541720	Play_HappyPills			\Default Work Unit\Play\Play_HappyPills	
+	2262326303	putonghexian			\Default Work Unit\Play\putonghexian	
+	2368844905	Enter			\Default Work Unit\Enter	
+	2405648188	Release			\Default Work Unit\Play\Release		2443906786	octaveOn			\Default Work Unit\Play\octaveOn	
+	2494933632	LEFT6			\Default Work Unit\Play\LEFT6	
+	2494933633	LEFT7			\Default Work Unit\Play\LEFT7	
+	2494933634	LEFT4			\Default Work Unit\Play\LEFT4	
+	2494933635	LEFT5			\Default Work Unit\Play\LEFT5	
+	2494933636	LEFT2			\Default Work Unit\Play\LEFT2		2494933637	LEFT3			\Default Work Unit\Play\LEFT3		2494933639	LEFT1			\Default Work Unit\Play\LEFT1		2494933646	LEFT8			\Default Work Unit\Play\LEFT8	
+	2494933647	LEFT9			\Default Work Unit\Play\LEFT9	
+	2885292578	jiang			\Default Work Unit\Play\jiang	
+	3053410432	sheng			\Default Work Unit\Play\sheng	
+	3232836819	Guitar			\Default Work Unit\Play\Guitar		3714192570	huanyuan			\Default Work Unit\Play\huanyuan	
+	3749078194	qihexian			\Default Work Unit\Play\qihexian	
+	3753593413	hover			\Default Work Unit\Play\hover	
+	3994525472	Release_03			\Default Work Unit\Play\Release_03	
+	3994525473	Release_02			\Default Work Unit\Play\Release_02	
+	3994525474	Release_01			\Default Work Unit\Play\Release_01	
+	3994525476	Release_07			\Default Work Unit\Play\Release_07	
+	3994525477	Release_06			\Default Work Unit\Play\Release_06	
+	3994525478	Release_05			\Default Work Unit\Play\Release_05	
+	3994525479	Release_04			\Default Work Unit\Play\Release_04	
+	3994525482	Release_09			\Default Work Unit\Play\Release_09	
+	3994525483	Release_08			\Default Work Unit\Play\Release_08	
+	4165952455	jian			\Default Work Unit\Play\jian	
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1065196937	Octave			\Default Work Unit\Octave	
+	1129531798	PlayingMethod			\Default Work Unit\PlayingMethod	
+	1913746772	IsSeven			\Default Work Unit\IsSeven	
+	2223635772	Dynamic			\Default Work Unit\Dynamic	
+	2614957188	Chords			\Default Work Unit\Chords	
+	2646123482	Intrusment			\Default Work Unit\Intrusment	
+
+Switch	ID	Name	Switch Group			Notes
+	930712164	Off	Octave			
+	1651971902	On	Octave			
+	32591245	Chord	PlayingMethod			
+	771268296	Solo	PlayingMethod			
+	274470240	Seven	IsSeven			
+	2395677314	Common	IsSeven			
+	84696431	P	Dynamic			
+	84696441	F	Dynamic			
+	1245009076	Major	Chords			
+	3499807024	Minor	Chords			
+	1324340420	Piano	Intrusment			
+	2247793849	Drum	Intrusment			
+	3063529226	Violin	Intrusment			
+	3232836819	Guitar	Intrusment			
+	3991942870	Music	Intrusment			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3468991076	GuitarTails			\Default Work Unit\GuitarTails	
+
+State	ID	Name	State Group			Notes
+	0	None	GuitarTails			
+	930712164	Off	GuitarTails			
+	1651971902	On	GuitarTails			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	856127284	Off	GuitarTails	\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Reverb	
+	640949982	speed			\Default Work Unit\speed	
+	1730564816	Music2			\Default Work Unit\Music2	
+	1730564817	Music3			\Default Work Unit\Music3	
+	1730564819	Music1			\Default Work Unit\Music1	
+	1730564820	Music6			\Default Work Unit\Music6	
+	1730564821	Music7			\Default Work Unit\Music7	
+	1730564822	Music4			\Default Work Unit\Music4	
+	1730564823	Music5			\Default Work Unit\Music5	
+	1730564826	Music8			\Default Work Unit\Music8	
+	1730564827	Music9			\Default Work Unit\Music9	
+
+Effect plug-ins	ID	Name	Type				Notes
+	459389954	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	586890583	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	770023990	Wwise_Time_Stretch_(Custom)	Wwise Time Stretch			
+	918444234	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3947682	F_18_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_18_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_18_Tail		30988
+	16166989	Drums_tom_1	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_tom_1_86C2FC6B.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_tom_1		69412
+	27337931	F_10_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_10_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_10_Tail		30988
+	36421120	f_11	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\11_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_11		264664
+	44104805	violin_01	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin01_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_01		352864
+	49195950	p_22	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p22_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_22		264664
+	73056386	Enter	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\App_Button_Slide_Cool_1_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\Enter		22116
+	73922813	P_15	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_P\CommonChord\OctaveOn\Chord_\P_15		705664
+	74068938	p_05	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p05_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_05		264664
+	75764057	violin_p_11	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_11_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_11		705664
+	84548948	Drums_snare_rim	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_snare_rim_4DD744FE.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_snare_rim		51284
+	104863651	f_09	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\09_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_09		264664
+	126741638	violin_08	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin08_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_08		352864
+	133363578	violin_10	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_10		352864
+	138128092	P_04	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_04_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_04		705664
+	139760241	Drums_tom_4	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_tom_4_BA037A6C.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_tom_4		119496
+	146845840	violin_p_15	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_15		705664
+	153174262	f_05	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\05_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_05		264664
+	173449627	P_20	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_20_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\M\Guitar\P_20		705664
+	176256746	violin_13	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin13_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_13		352864
+	185261566	violin_p_05	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_05_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_05		705664
+	186378806	Drums_snare	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_snare_B654E6DB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_snare		183496
+	192689442	violin_19	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin19_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_19		352864
+	197222360	P_07	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_07_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_07		705664
+	197661643	p_07	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p07_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_07		264664
+	197910997	p_09	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p09_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_09		264664
+	200497844	violin_03	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_03		352864
+	202262474	p_15	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_15		264664
+	203251189	p_12	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p12_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_12		264664
+	204971466	violin_06	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin06_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_06		352864
+	209200473	F_04	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_04_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_04		617464
+	210516815	violin_02	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin02_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_02		352864
+	215252867	violin_18	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin18_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_18		352864
+	225008972	P_02	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_02_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\D\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_02		705664
+	226854026	f_23	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\23_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_23		264664
+	232727267	F_15	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_F\CommonChord\OctaveOn\Chord_\F_15		617464
+	240641010	Drums_ridecymbal	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_ridecymbal_88F55874.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_ridecymbal		265636
+	254807506	F_13	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_13_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\J\Guitar\F_13		617464
+	258786389	f_19	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\19_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_19		264664
+	259336855	p_17	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p17_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_17		264664
+	259633807	P_11	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_11_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\A\Guitar\Chord\Chords_P\SevenChord\OctaveOff\Chord_\P_11		705664
+	264559904	F_19_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_19_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_19_Tail		30988
+	265608739	violin_15	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_15		352864
+	274387687	violin_07	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin07_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_07		352864
+	276759662	f_14	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_14		264664
+	276903151	p_11	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p11_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_11		264664
+	277753135	f_06	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\06_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_06		264664
+	277981445	violin_p_08	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_08_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_08		705664
+	286602618	F_16	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_16_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_F\SevenChord\OctaveOn\Chord_\F_16		617464
+	290541020	F_01_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_01_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_01_Tail		30988
+	290755419	F_11_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_11_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_11_Tail		30988
+	292906113	Drums_crash_1	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_crash_1_F730B7F0.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_crash_1		208004
+	297309417	p_08	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p08_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_08		264664
+	318650131	violin_p_04	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_04_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_04		705664
+	325183017	violin_04	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin04_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_04		352864
+	327544135	P_19	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_19_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_P\SevenChord\OctaveOn\Chord_\P_19		705664
+	329278246	F_10	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Solo\F_10		617464
+	340504399	F_06	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_06_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_06		617464
+	354806468	p_13	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p13_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_13		264664
+	358832856	Drums_tom_3	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_tom_3_6B42B6B7.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_tom_3		137796
+	361343661	F_12_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_12_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_12_Tail		30988
+	380095551	P_14	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_P\CommonChord\OctaveOn\Chord_\P_14		705664
+	382884308	F_18	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_18_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\A\Guitar\Chord\Chords_F\SevenChord\OctaveOn\Chord_\F_18		617464
+	389582432	F_15_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_15_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_15_Tail		30988
+	392346446	P_10	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Solo\P_10		705664
+	397130501	P_18	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_18_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\A\Guitar\Chord\Chords_P\SevenChord\OctaveOn\Chord_\P_18		705664
+	397173019	Drums_crash_4	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_crash_4_146A6B64.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_crash_4		334440
+	400881195	P_09	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_09_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_09		705664
+	402046445	violin_p_02	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_02_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_02		705664
+	435013735	Drums_hihat_open	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_hihat_open_3AF879E5.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_hihat_open		98760
+	441123345	f_18	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\18_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_18		264664
+	441490387	F_13_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_13_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_13_Tail		30988
+	443298704	violin_p_13	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_13_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_13		705664
+	459040553	F_14	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_F\CommonChord\OctaveOn\Chord_\F_14		617464
+	470339533	violin_p_12	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_12_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_12		705664
+	479804186	p_20	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p20_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_20		264664
+	480378324	f_03	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_03		264664
+	487618486	P_06	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_06_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_06		705664
+	496935173	F_09	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_09_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_09		617464
+	500282719	F_20	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_20_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\M\Guitar\F_20		617464
+	509296621	Drums_tom_2	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_tom_2_072701C0.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_tom_2		103396
+	514110470	violin_p_03	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_03		705664
+	520103234	p_19	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p19_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_19		264664
+	571658665	f_02	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\02_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_02		264664
+	575993623	f_08	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\08_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_08		264664
+	579608239	F_17	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_17_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_F\CommonChord\OctaveOn\Chord_\F_17		617464
+	584010378	F_05	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_05_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\C\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_05		617464
+	615092768	violin_12	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin12_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_12		352864
+	615814874	P_17	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_17_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_P\CommonChord\OctaveOn\Chord_\P_17		705664
+	620243174	F_17_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_17_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_17_Tail		30988
+	620588697	violin_22	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin22_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_22		352864
+	626028377	F_16_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_16_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_16_Tail		30988
+	634243040	F_19	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_19_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_F\SevenChord\OctaveOn\Chord_\F_19		617464
+	636607385	F_07	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_07_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\B\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_07		617464
+	637788996	F_03_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_03_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_03_Tail		30988
+	648413473	F_05_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_05_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_05_Tail		30988
+	650709497	F_08	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_08_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_08		617464
+	656362349	violin_14	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_14		352864
+	657275355	F_09_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_09_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_09_Tail		30988
+	657815279	Drums_crash_3	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_crash_3_A2307121.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_crash_3		341700
+	657873135	violin_23	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin23_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_23		352864
+	662170155	p_04	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p04_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_04		264664
+	665591133	P_01	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_01_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\C\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_01		705664
+	674268751	violin_p_01	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_01_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_01		705664
+	675726071	F_11	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_11_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\A\Guitar\Chord\Chords_F\SevenChord\OctaveOff\Chord_\F_11		617464
+	682766708	Drums_kickdrum	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_kickdrum_FFBE9700.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_kickdrum		83768
+	694770662	F_20_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_20_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_20_Tail		30988
+	699717479	F_14_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_14_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_14_Tail		30988
+	712031077	F_07_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_07_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_07_Tail		30988
+	714224433	f_10	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_10		264664
+	714779725	P_05	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_05_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\C\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_05		705664
+	749438425	p_21	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p21_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_21		264664
+	757550604	violin_p_07	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_07_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_07		705664
+	759977451	violin_09	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin09_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_09		352864
+	766396460	f_15	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\15_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_15		264664
+	769049234	f_17	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\17_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_17		264664
+	769988303	P_12	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_12_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_P\CommonChord\OctaveOn\Chord_\P_12		705664
+	774219310	F_01	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_01_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\C\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_01		617464
+	776017734	F_02_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_02_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_02_Tail		30988
+	799971734	f_01	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\01_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_01		264664
+	813132291	p_10	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_10		264664
+	824095347	F_12	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_12_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_F\CommonChord\OctaveOn\Chord_\F_12		617464
+	830136849	Back	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\App_Button_Slide_Cool_2_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\Back		22116
+	831450685	p_02	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p02_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_02		264664
+	832661788	P_16	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_16_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_P\SevenChord\OctaveOn\Chord_\P_16		705664
+	833984544	violin_21	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin21_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_21		352864
+	841876056	P_13	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_13_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\J\Guitar\P_13		705664
+	849282338	f_13	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\13_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_13		264664
+	861287655	F_03	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\R\Guitar\F_03		617464
+	882639101	hover	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Square_Bubble_Pop_UI_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\hover		22116
+	883444846	p_01	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p01_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_01		264664
+	889819828	violin_p_09	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_09_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_09		705664
+	897156963	p_14	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_14		264664
+	901603952	p_23	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p23_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_23		264664
+	912116798	p_18	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p18_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_18		264664
+	919161553	f_12	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\12_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_12		264664
+	926498856	p_03	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_03		264664
+	929319719	F_06_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_06_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_06_Tail		30988
+	946148541	option	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\ArcadeButtonPush_BW.49313_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\option		98368
+	949452390	violin_p_06	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_06_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_06		705664
+	960405838	violin_p_10	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_10_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_10		705664
+	964404469	f_07	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\07_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_07		264664
+	969069803	violin_05	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin05_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_05		352864
+	977875938	F_02	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_02_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\D\Guitar\Chord\Chords_F\CommonChord\OctaveOff\Chord_\F_02		617464
+	989988390	violin_17	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin17_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_17		352864
+	1003715159	f_20	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\20_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_20		264664
+	1006891735	f_22	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\22_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_22		264664
+	1010429954	p_06	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\p06_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\p_06		264664
+	1032927043	P_08	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_08_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Guitar\Chord\Chords_P\CommonChord\OctaveOff\Chord_\P_08		705664
+	1045349316	F_04_Tail	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\F_04_Tail_CC87FBFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Actor-Mixer\GuitarTails\F_04_Tail		30988
+	1056511208	violin_11	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin11_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_11		352864
+	1056594259	f_04	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\04_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_04		264664
+	1061103395	violin_20	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin20_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_20		352864
+	1061309036	f_21	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\21_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num1\Solo_Left1\f_21		264664
+	1061695374	P_03	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\P_03_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\R\Guitar\P_03		705664
+	1063626033	Drums_hihat_closed	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_hihat_closed_09A89E91.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_hihat_closed		47912
+	1068976430	Drums_crash_2	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Drums_crash_2_1AAA4321.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num3\Drums_crash_2		156212
+	1069564823	violin_p_14	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\violin_p_14_CC87FBFB.wem		\Actor-Mixer Hierarchy\Test\test\START\F\Num2\violin_p_14		705664
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	9389795	Mix_MyGame_9	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_9_E6B39AE9.wem	9389795.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_9	
+	21947447	Combat-TransToBridge_138bpm3-4_L3M-P1M	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-TransToBridge_138bpm3-4_L3M-P1M_0A288869.wem	21947447.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-TransToBridge_138bpm3-4_L3M-P1M\Combat-TransToBridge_138bpm3-4_L3M-P1M	
+	35442127	Combat-A-StaccStrings1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-StaccStrings1_138bpm4-4_L8M-P0_0A288869.wem	35442127.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-StaccStrings1_138bpm4-4_L8M-P0	6
+	39603198	Combat-A-Strings1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-Strings1_138bpm4-4_L8M-P0_0A288869.wem	39603198.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-Strings1_138bpm4-4_L8M-P0	6
+	122883093	Combat-A-Synth1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-Synth1_138bpm4-4_L8M-P0_0A288869.wem	122883093.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-Synth1_138bpm4-4_L8M-P0	7
+	147244538	Combat-A-HighChoir_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-HighChoir_138bpm4-4_L8M-P0_0A288869.wem	147244538.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-HighChoir_138bpm4-4_L8M-P0	4
+	166491412	Happy Pills_4	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Happy Pills_4_E6B39AE9.wem	166491412.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\HappyPills\HappyPills\Happy Pills_4	
+	173076680	Combat-AB-Rhythm-HiHat_138bpm4-4_L4M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-AB-Rhythm-HiHat_138bpm4-4_L4M-P0_0A288869.wem	173076680.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-AB-Rhythm-HiHat_138bpm4-4_L4M-P0	8
+	225068615		273895430	Happy Pills_5	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Happy Pills_5_E6B39AE9.wem	273895430.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\HappyPills\HappyPills\Happy Pills_5	
+	292163310	Mix_MyGame_5	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_5_E6B39AE9.wem	292163310.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_5	
+	292620984	Mix_MyGame_2	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_2_E6B39AE9.wem	292620984.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_2	
+	350147209	Happy Pills_2	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Happy Pills_2_E6B39AE9.wem	350147209.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\HappyPills\HappyPills\Happy Pills_2	
+	362875901	Combat-B-LowBrass_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-LowBrass_138bpm4-4_L8M-P0_0A288869.wem	362875901.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-LowBrass_138bpm4-4_L8M-P0	5
+	376655268	Mix_MyGame_6	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_6_E6B39AE9.wem	376655268.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_6	
+	413051498	Happy Pills_1	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Happy Pills_1_E6B39AE9.wem	413051498.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\HappyPills\HappyPills\Happy Pills_1	
+	425543897	Mix_MyGame_7	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_7_E6B39AE9.wem	425543897.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_7	
+	450639898	Combat-AB-Rhythm-Main_138bpm4-4_L4M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-AB-Rhythm-Main_138bpm4-4_L4M-P0_0A288869.wem	450639898.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-AB-Rhythm-Main_138bpm4-4_L4M-P0	9
+	456662814	Mix_MyGame_1	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_1_E6B39AE9.wem	456662814.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_1	
+	493348277	Mix_MyGame_3	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_3_E6B39AE9.wem	493348277.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_3	
+	518506476	Combat-B-Bass1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-Bass1_138bpm4-4_L8M-P0_0A288869.wem	518506476.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-Bass1_138bpm4-4_L8M-P0	2
+	539964251	Combat-A-LowBrass_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-LowBrass_138bpm4-4_L8M-P0_0A288869.wem	539964251.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-LowBrass_138bpm4-4_L8M-P0	5
+	587529491	Combat-B-Strings1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-Strings1_138bpm4-4_L8M-P0_0A288869.wem	587529491.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-Strings1_138bpm4-4_L8M-P0	6
+	662760561	Combat-B-StaccStrings1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-StaccStrings1_138bpm4-4_L8M-P0_0A288869.wem	662760561.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-StaccStrings1_138bpm4-4_L8M-P0	6
+	668049793	Combat-B-HighChoir_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-HighChoir_138bpm4-4_L8M-P0_0A288869.wem	668049793.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-HighChoir_138bpm4-4_L8M-P0	4
+	685848748	Combat-B-Arpeggio_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-Arpeggio_138bpm4-4_L8M-P0_0A288869.wem	685848748.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-Arpeggio_138bpm4-4_L8M-P0	1
+	742102706	Mix_MyGame_8	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_8_E6B39AE9.wem	742102706.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_8	
+	778881377	Combat-B-LowChoir_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-LowChoir_138bpm4-4_L8M-P0_0A288869.wem	778881377.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-LowChoir_138bpm4-4_L8M-P0	4
+	869219498	Combat-A-Gtr3_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-Gtr3_138bpm4-4_L8M-P0_0A288869.wem	869219498.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-Gtr3_138bpm4-4_L8M-P0	3
+	871909690	Combat-AB-Rhythm-PercPulse_138bpm4-4_L4M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-AB-Rhythm-PercPulse_138bpm4-4_L4M-P0_0A288869.wem	871909690.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-AB-Rhythm-PercPulse_138bpm4-4_L4M-P0	8
+	897557807	Combat-Bridge-Main_138bpm4-4_L17M-P1B	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-Bridge\Combat-Bridge-Main_138bpm4-4_L17M-P1B_0A288869.wem	897557807.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-Bridge\Combat-Bridge-Main_138bpm4-4_L17M-P1B	
+	908761241	Combat-B-Synth1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-Synth1_138bpm4-4_L8M-P0_0A288869.wem	908761241.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-Synth1_138bpm4-4_L8M-P0	7
+	921116814	Combat-A-LowChoir_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-LowChoir_138bpm4-4_L8M-P0_0A288869.wem	921116814.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-LowChoir_138bpm4-4_L8M-P0	4
+	985454039	Mix_MyGame_4	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Mix_MyGame_4_E6B39AE9.wem	985454039.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\ForIamTheMoon\Mix_MyGame_1\Mix_MyGame_4	
+	987390340	Combat-Bridge-Gtr3_138bpm4-4_L17M-P1B	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-Bridge\Combat-Bridge-Gtr3_138bpm4-4_L17M-P1B_0A288869.wem	987390340.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-Bridge\Combat-Bridge-Gtr3_138bpm4-4_L17M-P1B	
+	993985859	Combat-A-Arpeggio_138bpm4-4-L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-Arpeggio_138bpm4-4-L8M-P0_0A288869.wem	993985859.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-Arpeggio_138bpm4-4-L8M-P0	1
+	1011883871	Combat-B-Gtr3_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\test\Combat-B-Gtr3_138bpm4-4_L8M-P0_0A288869.wem	1011883871.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-B\Combat-B-Gtr3_138bpm4-4_L8M-P0	3
+	1032166656	Happy Pills_3	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Happy Pills_3_E6B39AE9.wem	1032166656.wem	\Interactive Music Hierarchy\Default Work Unit\New Music Switch Container\HappyPills\HappyPills\Happy Pills_3	
+	1057870809	Combat-A-Bass1_138bpm4-4_L8M-P0	F:\Project_Own\My Game\UnrealWwiseDemo\.cache\Android\SFX\Combat-A\Combat-A-Bass1_138bpm4-4_L8M-P0_0A288869.wem	1057870809.wem	\Interactive Music Hierarchy\Default Work Unit\Wwise201Music\Combat\Combat-A\Combat-A-Bass1_138bpm4-4_L8M-P0	2
+

@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "132",
+  "RootPaths": {
+   "ProjectRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemoNew\\WwiseDemoGame\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemoNew\\WwiseDemoGame\\UnrealWwiseDemo\\.cache\\Mac\\",
+   "SoundBanksRoot": "F:\\Project_Own\\My Game\\MyShow2D\\Content\\WwiseAudio\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemoNew\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\Mac"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "3558471344",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MusicGame",
+    "ShortName": "MusicGame",
+    "Path": "MusicGame.bnk"
+   }
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "iOS",
+  "BasePlatform": "iOS",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\.cache\\iOS\\",
+   "SoundBanksRoot": "F:\\Project_Own\\My Game\\MyShow2D\\Content\\WwiseAudio\\iOS\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\GeneratedSoundBanks\\iOS"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

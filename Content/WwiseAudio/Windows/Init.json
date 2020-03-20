@@ -1,0 +1,24 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\",
+   "SourceFilesRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Project_Own\\My Game\\MyShow2D\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "F:\\Project_Own\\My Game\\UnrealWwiseDemo\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

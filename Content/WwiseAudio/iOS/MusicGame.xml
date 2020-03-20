@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="iOS" BasePlatform="iOS" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>F:\Project_Own\My Game\UnrealWwiseDemo\</ProjectRoot>
+		<SourceFilesRoot>F:\Project_Own\My Game\UnrealWwiseDemo\.cache\iOS\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Project_Own\My Game\MyShow2D\Content\WwiseAudio\iOS\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Project_Own\My Game\UnrealWwiseDemo\GeneratedSoundBanks\iOS</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3558471344" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MusicGame</ObjectPath>
+			<ShortName>MusicGame</ShortName>
+			<Path>MusicGame.bnk</Path>
+			<IncludedEvents>
+				<Event Id="84696446" Name="A" ObjectPath="\Events\Default Work Unit\Play\A" DurationType="OneShot" DurationMin="1.178794" DurationMax="4.317852"/>
+				<Event Id="84696445" Name="B" ObjectPath="\Events\Default Work Unit\Play\B" DurationType="OneShot" DurationMin="1.039858" DurationMax="4.569848"/>
+				<Event Id="1559875400" Name="Back" ObjectPath="\Events\Default Work Unit\Back" DurationType="OneShot" DurationMin="0.125011" DurationMax="0.125011"/>
+				<Event Id="56461483" Name="BackOption" ObjectPath="\Events\Default Work Unit\BackOption" DurationType="OneShot" DurationMin="0.125011" DurationMax="0.125011"/>
+				<Event Id="412724365" Name="BGM" ObjectPath="\Events\Default Work Unit\BGM" DurationType="Infinite"/>
+				<Event Id="84696444" Name="C" ObjectPath="\Events\Default Work Unit\Play\C" DurationType="OneShot" DurationMin="0.474508" DurationMax="4.569848"/>
+				<Event Id="84696443" Name="D" ObjectPath="\Events\Default Work Unit\Play\D" DurationType="OneShot" DurationMin="1.500000" DurationMax="4.317852"/>
+				<Event Id="917422773" Name="Douhao" ObjectPath="\Events\Default Work Unit\Play\Douhao" DurationType="OneShot" DurationMin="0.000000" DurationMax="2.000000"/>
+				<Event Id="84696442" Name="E" ObjectPath="\Events\Default Work Unit\Play\E" DurationType="OneShot" DurationMin="0.780782" DurationMax="4.317852"/>
+				<Event Id="2368844905" Name="Enter" ObjectPath="\Events\Default Work Unit\Enter" DurationType="OneShot" DurationMin="0.125011" DurationMax="0.125011"/>
+				<Event Id="84696441" Name="F" ObjectPath="\Events\Default Work Unit\Play\F" DurationType="OneShot" DurationMin="1.500000" DurationMax="4.569848"/>
+				<Event Id="165729053" Name="ForIamTheMoon" ObjectPath="\Events\Default Work Unit\Play\ForIamTheMoon" DurationType="Infinite"/>
+				<Event Id="84696440" Name="G" ObjectPath="\Events\Default Work Unit\Play\G" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.317852"/>
+				<Event Id="3232836819" Name="Guitar" ObjectPath="\Events\Default Work Unit\Play\Guitar" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="84696439" Name="H" ObjectPath="\Events\Default Work Unit\Play\H" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="3753593413" Name="hover" ObjectPath="\Events\Default Work Unit\Play\hover" DurationType="OneShot" DurationMin="0.125011" DurationMax="0.125011"/>
+				<Event Id="3714192570" Name="huanyuan" ObjectPath="\Events\Default Work Unit\Play\huanyuan" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="84696437" Name="J" ObjectPath="\Events\Default Work Unit\Play\J" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="646331219" Name="jia" ObjectPath="\Events\Default Work Unit\Play\jia" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4165952455" Name="jian" ObjectPath="\Events\Default Work Unit\Play\jian" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2885292578" Name="jiang" ObjectPath="\Events\Default Work Unit\Play\jiang" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933639" Name="LEFT1" ObjectPath="\Events\Default Work Unit\Play\LEFT1" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933636" Name="LEFT2" ObjectPath="\Events\Default Work Unit\Play\LEFT2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933637" Name="LEFT3" ObjectPath="\Events\Default Work Unit\Play\LEFT3" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933634" Name="LEFT4" ObjectPath="\Events\Default Work Unit\Play\LEFT4" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933635" Name="LEFT5" ObjectPath="\Events\Default Work Unit\Play\LEFT5" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933632" Name="LEFT6" ObjectPath="\Events\Default Work Unit\Play\LEFT6" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933633" Name="LEFT7" ObjectPath="\Events\Default Work Unit\Play\LEFT7" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933646" Name="LEFT8" ObjectPath="\Events\Default Work Unit\Play\LEFT8" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2494933647" Name="LEFT9" ObjectPath="\Events\Default Work Unit\Play\LEFT9" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="84696434" Name="M" ObjectPath="\Events\Default Work Unit\Play\M" DurationType="OneShot" DurationMin="1.500000" DurationMax="4.080000"/>
+				<Event Id="84696433" Name="N" ObjectPath="\Events\Default Work Unit\Play\N" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="800905324" Name="Num1" ObjectPath="\Events\Default Work Unit\Play\Num1" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="800905327" Name="Num2" ObjectPath="\Events\Default Work Unit\Play\Num2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="800905326" Name="Num3" ObjectPath="\Events\Default Work Unit\Play\Num3" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="800905321" Name="Num4" ObjectPath="\Events\Default Work Unit\Play\Num4" DurationType="Infinite"/>
+				<Event Id="800905322" Name="Num7" ObjectPath="\Events\Default Work Unit\Play\Num7" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="800905317" Name="Num8" ObjectPath="\Events\Default Work Unit\Play\Num8" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="977828408" Name="octaveOff" ObjectPath="\Events\Default Work Unit\Play\octaveOff" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2443906786" Name="octaveOn" ObjectPath="\Events\Default Work Unit\Play\octaveOn" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="731737678" Name="option" ObjectPath="\Events\Default Work Unit\option" DurationType="OneShot" DurationMin="0.512000" DurationMax="0.512000"/>
+				<Event Id="1905541720" Name="Play_HappyPills" ObjectPath="\Events\Default Work Unit\Play\Play_HappyPills" DurationType="Infinite"/>
+				<Event Id="2262326303" Name="putonghexian" ObjectPath="\Events\Default Work Unit\Play\putonghexian" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="84696430" Name="Q" ObjectPath="\Events\Default Work Unit\Play\Q" DurationType="OneShot" DurationMin="0.393136" DurationMax="4.080000"/>
+				<Event Id="3749078194" Name="qihexian" ObjectPath="\Events\Default Work Unit\Play\qihexian" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="84696429" Name="R" ObjectPath="\Events\Default Work Unit\Play\R" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.000000"/>
+				<Event Id="2405648188" Name="Release" ObjectPath="\Events\Default Work Unit\Play\Release" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525474" Name="Release_01" ObjectPath="\Events\Default Work Unit\Play\Release_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525473" Name="Release_02" ObjectPath="\Events\Default Work Unit\Play\Release_02" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525472" Name="Release_03" ObjectPath="\Events\Default Work Unit\Play\Release_03" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525479" Name="Release_04" ObjectPath="\Events\Default Work Unit\Play\Release_04" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525478" Name="Release_05" ObjectPath="\Events\Default Work Unit\Play\Release_05" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525477" Name="Release_06" ObjectPath="\Events\Default Work Unit\Play\Release_06" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525476" Name="Release_07" ObjectPath="\Events\Default Work Unit\Play\Release_07" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525483" Name="Release_08" ObjectPath="\Events\Default Work Unit\Play\Release_08" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3994525482" Name="Release_09" ObjectPath="\Events\Default Work Unit\Play\Release_09" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1294097616" Name="Release_A" ObjectPath="\Events\Default Work Unit\Release\Release_A" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097619" Name="Release_B" ObjectPath="\Events\Default Work Unit\Release\Release_B" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097618" Name="Release_C" ObjectPath="\Events\Default Work Unit\Release\Release_C" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097621" Name="Release_D" ObjectPath="\Events\Default Work Unit\Release\Release_D" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097620" Name="Release_E" ObjectPath="\Events\Default Work Unit\Release\Release_E" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097623" Name="Release_F" ObjectPath="\Events\Default Work Unit\Release\Release_F" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097622" Name="Release_G" ObjectPath="\Events\Default Work Unit\Release\Release_G" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097625" Name="Release_H" ObjectPath="\Events\Default Work Unit\Release\Release_H" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097627" Name="Release_J" ObjectPath="\Events\Default Work Unit\Release\Release_J" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097628" Name="Release_M" ObjectPath="\Events\Default Work Unit\Release\Release_M" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097631" Name="Release_N" ObjectPath="\Events\Default Work Unit\Release\Release_N" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097600" Name="Release_Q" ObjectPath="\Events\Default Work Unit\Release\Release_Q" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097603" Name="Release_R" ObjectPath="\Events\Default Work Unit\Release\Release_R" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097602" Name="Release_S" ObjectPath="\Events\Default Work Unit\Release\Release_S" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097605" Name="Release_T" ObjectPath="\Events\Default Work Unit\Release\Release_T" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097604" Name="Release_U" ObjectPath="\Events\Default Work Unit\Release\Release_U" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097607" Name="Release_V" ObjectPath="\Events\Default Work Unit\Release\Release_V" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097606" Name="Release_W" ObjectPath="\Events\Default Work Unit\Release\Release_W" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097609" Name="Release_X" ObjectPath="\Events\Default Work Unit\Release\Release_X" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097608" Name="Release_Y" ObjectPath="\Events\Default Work Unit\Release\Release_Y" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="1294097611" Name="Release_Z" ObjectPath="\Events\Default Work Unit\Release\Release_Z" DurationType="OneShot" DurationMin="0.175306" DurationMax="0.175306"/>
+				<Event Id="84696428" Name="S" ObjectPath="\Events\Default Work Unit\Play\S" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="3053410432" Name="sheng" ObjectPath="\Events\Default Work Unit\Play\sheng" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1281810935" Name="Start" ObjectPath="\Events\Default Work Unit\Play\Start" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="84696427" Name="T" ObjectPath="\Events\Default Work Unit\Play\T" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="84696426" Name="U" ObjectPath="\Events\Default Work Unit\Play\U" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="84696425" Name="V" ObjectPath="\Events\Default Work Unit\Play\V" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="84696424" Name="W" ObjectPath="\Events\Default Work Unit\Play\W" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="84696423" Name="X" ObjectPath="\Events\Default Work Unit\Play\X" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="84696422" Name="Y" ObjectPath="\Events\Default Work Unit\Play\Y" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+				<Event Id="84696421" Name="Z" ObjectPath="\Events\Default Work Unit\Play\Z" DurationType="OneShot" DurationMin="0.000000" DurationMax="4.080000"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="9389795" Language="SFX">
+					<ShortName>Mix_MyGame_9.wav</ShortName>
+					<Path>SFX\Mix_MyGame_9_E6B39AE9.wem</Path>
+				</File>
+				<File Id="21947447" Language="SFX">
+					<ShortName>test\Combat-TransToBridge_138bpm3-4_L3M-P1M.wav</ShortName>
+					<Path>SFX\test\Combat-TransToBridge_138bpm3-4_L3M-P1M_0A288869.wem</Path>
+				</File>
+				<File Id="35442127" Language="SFX">
+					<ShortName>Combat-A\Combat-A-StaccStrings1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-StaccStrings1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="39603198" Language="SFX">
+					<ShortName>Combat-A\Combat-A-Strings1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-Strings1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="122883093" Language="SFX">
+					<ShortName>Combat-A\Combat-A-Synth1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-Synth1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="147244538" Language="SFX">
+					<ShortName>Combat-A\Combat-A-HighChoir_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-HighChoir_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="166491412" Language="SFX">
+					<ShortName>Happy Pills_4.wav</ShortName>
+					<Path>SFX\Happy Pills_4_E6B39AE9.wem</Path>
+				</File>
+				<File Id="173076680" Language="SFX">
+					<ShortName>test\Combat-AB-Rhythm-HiHat_138bpm4-4_L4M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-AB-Rhythm-HiHat_138bpm4-4_L4M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="225068615" Language="SFX">
+					<ShortName>test\战机音乐demo v2.wav</ShortName>
+					<Path>SFX\test\战机音乐demo v2_0A288869.wem</Path>
+				</File>
+				<File Id="273895430" Language="SFX">
+					<ShortName>Happy Pills_5.wav</ShortName>
+					<Path>SFX\Happy Pills_5_E6B39AE9.wem</Path>
+				</File>
+				<File Id="292163310" Language="SFX">
+					<ShortName>Mix_MyGame_5.wav</ShortName>
+					<Path>SFX\Mix_MyGame_5_E6B39AE9.wem</Path>
+				</File>
+				<File Id="292620984" Language="SFX">
+					<ShortName>Mix_MyGame_2.wav</ShortName>
+					<Path>SFX\Mix_MyGame_2_E6B39AE9.wem</Path>
+				</File>
+				<File Id="350147209" Language="SFX">
+					<ShortName>Happy Pills_2.wav</ShortName>
+					<Path>SFX\Happy Pills_2_E6B39AE9.wem</Path>
+				</File>
+				<File Id="362875901" Language="SFX">
+					<ShortName>test\Combat-B-LowBrass_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-LowBrass_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="376655268" Language="SFX">
+					<ShortName>Mix_MyGame_6.wav</ShortName>
+					<Path>SFX\Mix_MyGame_6_E6B39AE9.wem</Path>
+				</File>
+				<File Id="413051498" Language="SFX">
+					<ShortName>Happy Pills_1.wav</ShortName>
+					<Path>SFX\Happy Pills_1_E6B39AE9.wem</Path>
+				</File>
+				<File Id="425543897" Language="SFX">
+					<ShortName>Mix_MyGame_7.wav</ShortName>
+					<Path>SFX\Mix_MyGame_7_E6B39AE9.wem</Path>
+				</File>
+				<File Id="450639898" Language="SFX">
+					<ShortName>test\Combat-AB-Rhythm-Main_138bpm4-4_L4M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-AB-Rhythm-Main_138bpm4-4_L4M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="456662814" Language="SFX">
+					<ShortName>Mix_MyGame_1.wav</ShortName>
+					<Path>SFX\Mix_MyGame_1_E6B39AE9.wem</Path>
+				</File>
+				<File Id="493348277" Language="SFX">
+					<ShortName>Mix_MyGame_3.wav</ShortName>
+					<Path>SFX\Mix_MyGame_3_E6B39AE9.wem</Path>
+				</File>
+				<File Id="518506476" Language="SFX">
+					<ShortName>test\Combat-B-Bass1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-Bass1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="539964251" Language="SFX">
+					<ShortName>Combat-A\Combat-A-LowBrass_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-LowBrass_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="587529491" Language="SFX">
+					<ShortName>test\Combat-B-Strings1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-Strings1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="662760561" Language="SFX">
+					<ShortName>test\Combat-B-StaccStrings1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-StaccStrings1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="668049793" Language="SFX">
+					<ShortName>test\Combat-B-HighChoir_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-HighChoir_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="685848748" Language="SFX">
+					<ShortName>test\Combat-B-Arpeggio_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-Arpeggio_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="742102706" Language="SFX">
+					<ShortName>Mix_MyGame_8.wav</ShortName>
+					<Path>SFX\Mix_MyGame_8_E6B39AE9.wem</Path>
+				</File>
+				<File Id="778881377" Language="SFX">
+					<ShortName>test\Combat-B-LowChoir_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-LowChoir_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="869219498" Language="SFX">
+					<ShortName>Combat-A\Combat-A-Gtr3_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-Gtr3_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="871909690" Language="SFX">
+					<ShortName>test\Combat-AB-Rhythm-PercPulse_138bpm4-4_L4M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-AB-Rhythm-PercPulse_138bpm4-4_L4M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="897557807" Language="SFX">
+					<ShortName>Combat-Bridge\Combat-Bridge-Main_138bpm4-4_L17M-P1B.wav</ShortName>
+					<Path>SFX\Combat-Bridge\Combat-Bridge-Main_138bpm4-4_L17M-P1B_0A288869.wem</Path>
+				</File>
+				<File Id="908761241" Language="SFX">
+					<ShortName>test\Combat-B-Synth1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-Synth1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="921116814" Language="SFX">
+					<ShortName>Combat-A\Combat-A-LowChoir_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-LowChoir_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="985454039" Language="SFX">
+					<ShortName>Mix_MyGame_4.wav</ShortName>
+					<Path>SFX\Mix_MyGame_4_E6B39AE9.wem</Path>
+				</File>
+				<File Id="987390340" Language="SFX">
+					<ShortName>Combat-Bridge\Combat-Bridge-Gtr3_138bpm4-4_L17M-P1B.wav</ShortName>
+					<Path>SFX\Combat-Bridge\Combat-Bridge-Gtr3_138bpm4-4_L17M-P1B_0A288869.wem</Path>
+				</File>
+				<File Id="993985859" Language="SFX">
+					<ShortName>Combat-A\Combat-A-Arpeggio_138bpm4-4-L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-Arpeggio_138bpm4-4-L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="1011883871" Language="SFX">
+					<ShortName>test\Combat-B-Gtr3_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\test\Combat-B-Gtr3_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+				<File Id="1032166656" Language="SFX">
+					<ShortName>Happy Pills_3.wav</ShortName>
+					<Path>SFX\Happy Pills_3_E6B39AE9.wem</Path>
+				</File>
+				<File Id="1057870809" Language="SFX">
+					<ShortName>Combat-A\Combat-A-Bass1_138bpm4-4_L8M-P0.wav</ShortName>
+					<Path>SFX\Combat-A\Combat-A-Bass1_138bpm4-4_L8M-P0_0A288869.wem</Path>
+				</File>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="3947682" Language="SFX">
+					<ShortName>test\F_18_Tail.wav</ShortName>
+					<Path>SFX\test\F_18_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="16166989" Language="SFX">
+					<ShortName>Drums_tom_1.WAV</ShortName>
+					<Path>SFX\Drums_tom_1_86C2FC6B.wem</Path>
+				</File>
+				<File Id="27337931" Language="SFX">
+					<ShortName>test\F_10_Tail.wav</ShortName>
+					<Path>SFX\test\F_10_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="36421120" Language="SFX">
+					<ShortName>test\11.wav</ShortName>
+					<Path>SFX\test\11_CC87FBFB.wem</Path>
+				</File>
+				<File Id="44104805" Language="SFX">
+					<ShortName>test\violin01.wav</ShortName>
+					<Path>SFX\test\violin01_CC87FBFB.wem</Path>
+				</File>
+				<File Id="49195950" Language="SFX">
+					<ShortName>test\p22.wav</ShortName>
+					<Path>SFX\test\p22_CC87FBFB.wem</Path>
+				</File>
+				<File Id="73056386" Language="SFX">
+					<ShortName>App_Button_Slide_Cool_1.wav</ShortName>
+					<Path>SFX\App_Button_Slide_Cool_1_CC87FBFB.wem</Path>
+				</File>
+				<File Id="73922813" Language="SFX">
+					<ShortName>test\P_15.wav</ShortName>
+					<Path>SFX\test\P_15_CC87FBFB.wem</Path>
+				</File>
+				<File Id="74068938" Language="SFX">
+					<ShortName>test\p05.wav</ShortName>
+					<Path>SFX\test\p05_CC87FBFB.wem</Path>
+				</File>
+				<File Id="75764057" Language="SFX">
+					<ShortName>test\violin_p_11.wav</ShortName>
+					<Path>SFX\test\violin_p_11_CC87FBFB.wem</Path>
+				</File>
+				<File Id="84548948" Language="SFX">
+					<ShortName>Drums_snare_rim.WAV</ShortName>
+					<Path>SFX\Drums_snare_rim_4DD744FE.wem</Path>
+				</File>
+				<File Id="104863651" Language="SFX">
+					<ShortName>test\09.wav</ShortName>
+					<Path>SFX\test\09_CC87FBFB.wem</Path>
+				</File>
+				<File Id="126741638" Language="SFX">
+					<ShortName>test\violin08.wav</ShortName>
+					<Path>SFX\test\violin08_CC87FBFB.wem</Path>
+				</File>
+				<File Id="133363578" Language="SFX">
+					<ShortName>test\violin10.wav</ShortName>
+					<Path>SFX\test\violin10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="138128092" Language="SFX">
+					<ShortName>test\P_04.wav</ShortName>
+					<Path>SFX\test\P_04_CC87FBFB.wem</Path>
+				</File>
+				<File Id="139760241" Language="SFX">
+					<ShortName>Drums_tom_4.WAV</ShortName>
+					<Path>SFX\Drums_tom_4_BA037A6C.wem</Path>
+				</File>
+				<File Id="146845840" Language="SFX">
+					<ShortName>test\violin_p_15.wav</ShortName>
+					<Path>SFX\test\violin_p_15_CC87FBFB.wem</Path>
+				</File>
+				<File Id="153174262" Language="SFX">
+					<ShortName>test\05.wav</ShortName>
+					<Path>SFX\test\05_CC87FBFB.wem</Path>
+				</File>
+				<File Id="173449627" Language="SFX">
+					<ShortName>test\P_20.wav</ShortName>
+					<Path>SFX\test\P_20_CC87FBFB.wem</Path>
+				</File>
+				<File Id="176256746" Language="SFX">
+					<ShortName>test\violin13.wav</ShortName>
+					<Path>SFX\test\violin13_CC87FBFB.wem</Path>
+				</File>
+				<File Id="185261566" Language="SFX">
+					<ShortName>test\violin_p_05.wav</ShortName>
+					<Path>SFX\test\violin_p_05_CC87FBFB.wem</Path>
+				</File>
+				<File Id="186378806" Language="SFX">
+					<ShortName>Drums_snare.WAV</ShortName>
+					<Path>SFX\Drums_snare_B654E6DB.wem</Path>
+				</File>
+				<File Id="192689442" Language="SFX">
+					<ShortName>test\violin19.wav</ShortName>
+					<Path>SFX\test\violin19_CC87FBFB.wem</Path>
+				</File>
+				<File Id="197222360" Language="SFX">
+					<ShortName>test\P_07.wav</ShortName>
+					<Path>SFX\test\P_07_CC87FBFB.wem</Path>
+				</File>
+				<File Id="197661643" Language="SFX">
+					<ShortName>test\p07.wav</ShortName>
+					<Path>SFX\test\p07_CC87FBFB.wem</Path>
+				</File>
+				<File Id="197910997" Language="SFX">
+					<ShortName>test\p09.wav</ShortName>
+					<Path>SFX\test\p09_CC87FBFB.wem</Path>
+				</File>
+				<File Id="200497844" Language="SFX">
+					<ShortName>test\violin03.wav</ShortName>
+					<Path>SFX\test\violin03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="202262474" Language="SFX">
+					<ShortName>test\p15.wav</ShortName>
+					<Path>SFX\test\p15_CC87FBFB.wem</Path>
+				</File>
+				<File Id="203251189" Language="SFX">
+					<ShortName>test\p12.wav</ShortName>
+					<Path>SFX\test\p12_CC87FBFB.wem</Path>
+				</File>
+				<File Id="204971466" Language="SFX">
+					<ShortName>test\violin06.wav</ShortName>
+					<Path>SFX\test\violin06_CC87FBFB.wem</Path>
+				</File>
+				<File Id="209200473" Language="SFX">
+					<ShortName>test\F_04.wav</ShortName>
+					<Path>SFX\test\F_04_CC87FBFB.wem</Path>
+				</File>
+				<File Id="210516815" Language="SFX">
+					<ShortName>test\violin02.wav</ShortName>
+					<Path>SFX\test\violin02_CC87FBFB.wem</Path>
+				</File>
+				<File Id="215252867" Language="SFX">
+					<ShortName>test\violin18.wav</ShortName>
+					<Path>SFX\test\violin18_CC87FBFB.wem</Path>
+				</File>
+				<File Id="225008972" Language="SFX">
+					<ShortName>test\P_02.wav</ShortName>
+					<Path>SFX\test\P_02_CC87FBFB.wem</Path>
+				</File>
+				<File Id="226854026" Language="SFX">
+					<ShortName>test\23.wav</ShortName>
+					<Path>SFX\test\23_CC87FBFB.wem</Path>
+				</File>
+				<File Id="232727267" Language="SFX">
+					<ShortName>test\F_15.wav</ShortName>
+					<Path>SFX\test\F_15_CC87FBFB.wem</Path>
+				</File>
+				<File Id="240641010" Language="SFX">
+					<ShortName>Drums_ridecymbal.WAV</ShortName>
+					<Path>SFX\Drums_ridecymbal_88F55874.wem</Path>
+				</File>
+				<File Id="254807506" Language="SFX">
+					<ShortName>test\F_13.wav</ShortName>
+					<Path>SFX\test\F_13_CC87FBFB.wem</Path>
+				</File>
+				<File Id="258786389" Language="SFX">
+					<ShortName>test\19.wav</ShortName>
+					<Path>SFX\test\19_CC87FBFB.wem</Path>
+				</File>
+				<File Id="259336855" Language="SFX">
+					<ShortName>test\p17.wav</ShortName>
+					<Path>SFX\test\p17_CC87FBFB.wem</Path>
+				</File>
+				<File Id="259633807" Language="SFX">
+					<ShortName>test\P_11.wav</ShortName>
+					<Path>SFX\test\P_11_CC87FBFB.wem</Path>
+				</File>
+				<File Id="264559904" Language="SFX">
+					<ShortName>test\F_19_Tail.wav</ShortName>
+					<Path>SFX\test\F_19_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="265608739" Language="SFX">
+					<ShortName>test\violin15.wav</ShortName>
+					<Path>SFX\test\violin15_CC87FBFB.wem</Path>
+				</File>
+				<File Id="274387687" Language="SFX">
+					<ShortName>test\violin07.wav</ShortName>
+					<Path>SFX\test\violin07_CC87FBFB.wem</Path>
+				</File>
+				<File Id="276759662" Language="SFX">
+					<ShortName>test\14.wav</ShortName>
+					<Path>SFX\test\14_CC87FBFB.wem</Path>
+				</File>
+				<File Id="276903151" Language="SFX">
+					<ShortName>test\p11.wav</ShortName>
+					<Path>SFX\test\p11_CC87FBFB.wem</Path>
+				</File>
+				<File Id="277753135" Language="SFX">
+					<ShortName>test\06.wav</ShortName>
+					<Path>SFX\test\06_CC87FBFB.wem</Path>
+				</File>
+				<File Id="277981445" Language="SFX">
+					<ShortName>test\violin_p_08.wav</ShortName>
+					<Path>SFX\test\violin_p_08_CC87FBFB.wem</Path>
+				</File>
+				<File Id="286602618" Language="SFX">
+					<ShortName>test\F_16.wav</ShortName>
+					<Path>SFX\test\F_16_CC87FBFB.wem</Path>
+				</File>
+				<File Id="290541020" Language="SFX">
+					<ShortName>test\F_01_Tail.wav</ShortName>
+					<Path>SFX\test\F_01_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="290755419" Language="SFX">
+					<ShortName>test\F_11_Tail.wav</ShortName>
+					<Path>SFX\test\F_11_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="292906113" Language="SFX">
+					<ShortName>Drums_crash_1.WAV</ShortName>
+					<Path>SFX\Drums_crash_1_F730B7F0.wem</Path>
+				</File>
+				<File Id="297309417" Language="SFX">
+					<ShortName>test\p08.wav</ShortName>
+					<Path>SFX\test\p08_CC87FBFB.wem</Path>
+				</File>
+				<File Id="318650131" Language="SFX">
+					<ShortName>test\violin_p_04.wav</ShortName>
+					<Path>SFX\test\violin_p_04_CC87FBFB.wem</Path>
+				</File>
+				<File Id="325183017" Language="SFX">
+					<ShortName>test\violin04.wav</ShortName>
+					<Path>SFX\test\violin04_CC87FBFB.wem</Path>
+				</File>
+				<File Id="327544135" Language="SFX">
+					<ShortName>test\P_19.wav</ShortName>
+					<Path>SFX\test\P_19_CC87FBFB.wem</Path>
+				</File>
+				<File Id="329278246" Language="SFX">
+					<ShortName>test\F_10.wav</ShortName>
+					<Path>SFX\test\F_10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="340504399" Language="SFX">
+					<ShortName>test\F_06.wav</ShortName>
+					<Path>SFX\test\F_06_CC87FBFB.wem</Path>
+				</File>
+				<File Id="354806468" Language="SFX">
+					<ShortName>test\p13.wav</ShortName>
+					<Path>SFX\test\p13_CC87FBFB.wem</Path>
+				</File>
+				<File Id="358832856" Language="SFX">
+					<ShortName>Drums_tom_3.WAV</ShortName>
+					<Path>SFX\Drums_tom_3_6B42B6B7.wem</Path>
+				</File>
+				<File Id="361343661" Language="SFX">
+					<ShortName>test\F_12_Tail.wav</ShortName>
+					<Path>SFX\test\F_12_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="380095551" Language="SFX">
+					<ShortName>test\P_14.wav</ShortName>
+					<Path>SFX\test\P_14_CC87FBFB.wem</Path>
+				</File>
+				<File Id="382884308" Language="SFX">
+					<ShortName>test\F_18.wav</ShortName>
+					<Path>SFX\test\F_18_CC87FBFB.wem</Path>
+				</File>
+				<File Id="389582432" Language="SFX">
+					<ShortName>test\F_15_Tail.wav</ShortName>
+					<Path>SFX\test\F_15_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="392346446" Language="SFX">
+					<ShortName>test\P_10.wav</ShortName>
+					<Path>SFX\test\P_10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="397130501" Language="SFX">
+					<ShortName>test\P_18.wav</ShortName>
+					<Path>SFX\test\P_18_CC87FBFB.wem</Path>
+				</File>
+				<File Id="397173019" Language="SFX">
+					<ShortName>Drums_crash_4.WAV</ShortName>
+					<Path>SFX\Drums_crash_4_146A6B64.wem</Path>
+				</File>
+				<File Id="400881195" Language="SFX">
+					<ShortName>test\P_09.wav</ShortName>
+					<Path>SFX\test\P_09_CC87FBFB.wem</Path>
+				</File>
+				<File Id="402046445" Language="SFX">
+					<ShortName>test\violin_p_02.wav</ShortName>
+					<Path>SFX\test\violin_p_02_CC87FBFB.wem</Path>
+				</File>
+				<File Id="435013735" Language="SFX">
+					<ShortName>Drums_hihat_open.WAV</ShortName>
+					<Path>SFX\Drums_hihat_open_3AF879E5.wem</Path>
+				</File>
+				<File Id="441123345" Language="SFX">
+					<ShortName>test\18.wav</ShortName>
+					<Path>SFX\test\18_CC87FBFB.wem</Path>
+				</File>
+				<File Id="441490387" Language="SFX">
+					<ShortName>test\F_13_Tail.wav</ShortName>
+					<Path>SFX\test\F_13_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="443298704" Language="SFX">
+					<ShortName>test\violin_p_13.wav</ShortName>
+					<Path>SFX\test\violin_p_13_CC87FBFB.wem</Path>
+				</File>
+				<File Id="459040553" Language="SFX">
+					<ShortName>test\F_14.wav</ShortName>
+					<Path>SFX\test\F_14_CC87FBFB.wem</Path>
+				</File>
+				<File Id="470339533" Language="SFX">
+					<ShortName>test\violin_p_12.wav</ShortName>
+					<Path>SFX\test\violin_p_12_CC87FBFB.wem</Path>
+				</File>
+				<File Id="479804186" Language="SFX">
+					<ShortName>test\p20.wav</ShortName>
+					<Path>SFX\test\p20_CC87FBFB.wem</Path>
+				</File>
+				<File Id="480378324" Language="SFX">
+					<ShortName>test\03.wav</ShortName>
+					<Path>SFX\test\03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="487618486" Language="SFX">
+					<ShortName>test\P_06.wav</ShortName>
+					<Path>SFX\test\P_06_CC87FBFB.wem</Path>
+				</File>
+				<File Id="496935173" Language="SFX">
+					<ShortName>test\F_09.wav</ShortName>
+					<Path>SFX\test\F_09_CC87FBFB.wem</Path>
+				</File>
+				<File Id="500282719" Language="SFX">
+					<ShortName>test\F_20.wav</ShortName>
+					<Path>SFX\test\F_20_CC87FBFB.wem</Path>
+				</File>
+				<File Id="509296621" Language="SFX">
+					<ShortName>Drums_tom_2.WAV</ShortName>
+					<Path>SFX\Drums_tom_2_072701C0.wem</Path>
+				</File>
+				<File Id="514110470" Language="SFX">
+					<ShortName>test\violin_p_03.wav</ShortName>
+					<Path>SFX\test\violin_p_03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="520103234" Language="SFX">
+					<ShortName>test\p19.wav</ShortName>
+					<Path>SFX\test\p19_CC87FBFB.wem</Path>
+				</File>
+				<File Id="571658665" Language="SFX">
+					<ShortName>test\02.wav</ShortName>
+					<Path>SFX\test\02_CC87FBFB.wem</Path>
+				</File>
+				<File Id="575993623" Language="SFX">
+					<ShortName>test\08.wav</ShortName>
+					<Path>SFX\test\08_CC87FBFB.wem</Path>
+				</File>
+				<File Id="579608239" Language="SFX">
+					<ShortName>test\F_17.wav</ShortName>
+					<Path>SFX\test\F_17_CC87FBFB.wem</Path>
+				</File>
+				<File Id="584010378" Language="SFX">
+					<ShortName>test\F_05.wav</ShortName>
+					<Path>SFX\test\F_05_CC87FBFB.wem</Path>
+				</File>
+				<File Id="615092768" Language="SFX">
+					<ShortName>test\violin12.wav</ShortName>
+					<Path>SFX\test\violin12_CC87FBFB.wem</Path>
+				</File>
+				<File Id="615814874" Language="SFX">
+					<ShortName>test\P_17.wav</ShortName>
+					<Path>SFX\test\P_17_CC87FBFB.wem</Path>
+				</File>
+				<File Id="620243174" Language="SFX">
+					<ShortName>test\F_17_Tail.wav</ShortName>
+					<Path>SFX\test\F_17_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="620588697" Language="SFX">
+					<ShortName>test\violin22.wav</ShortName>
+					<Path>SFX\test\violin22_CC87FBFB.wem</Path>
+				</File>
+				<File Id="626028377" Language="SFX">
+					<ShortName>test\F_16_Tail.wav</ShortName>
+					<Path>SFX\test\F_16_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="634243040" Language="SFX">
+					<ShortName>test\F_19.wav</ShortName>
+					<Path>SFX\test\F_19_CC87FBFB.wem</Path>
+				</File>
+				<File Id="636607385" Language="SFX">
+					<ShortName>test\F_07.wav</ShortName>
+					<Path>SFX\test\F_07_CC87FBFB.wem</Path>
+				</File>
+				<File Id="637788996" Language="SFX">
+					<ShortName>test\F_03_Tail.wav</ShortName>
+					<Path>SFX\test\F_03_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="648413473" Language="SFX">
+					<ShortName>test\F_05_Tail.wav</ShortName>
+					<Path>SFX\test\F_05_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="650709497" Language="SFX">
+					<ShortName>test\F_08.wav</ShortName>
+					<Path>SFX\test\F_08_CC87FBFB.wem</Path>
+				</File>
+				<File Id="656362349" Language="SFX">
+					<ShortName>test\violin14.wav</ShortName>
+					<Path>SFX\test\violin14_CC87FBFB.wem</Path>
+				</File>
+				<File Id="657275355" Language="SFX">
+					<ShortName>test\F_09_Tail.wav</ShortName>
+					<Path>SFX\test\F_09_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="657815279" Language="SFX">
+					<ShortName>Drums_crash_3.WAV</ShortName>
+					<Path>SFX\Drums_crash_3_A2307121.wem</Path>
+				</File>
+				<File Id="657873135" Language="SFX">
+					<ShortName>test\violin23.wav</ShortName>
+					<Path>SFX\test\violin23_CC87FBFB.wem</Path>
+				</File>
+				<File Id="662170155" Language="SFX">
+					<ShortName>test\p04.wav</ShortName>
+					<Path>SFX\test\p04_CC87FBFB.wem</Path>
+				</File>
+				<File Id="665591133" Language="SFX">
+					<ShortName>test\P_01.wav</ShortName>
+					<Path>SFX\test\P_01_CC87FBFB.wem</Path>
+				</File>
+				<File Id="674268751" Language="SFX">
+					<ShortName>test\violin_p_01.wav</ShortName>
+					<Path>SFX\test\violin_p_01_CC87FBFB.wem</Path>
+				</File>
+				<File Id="675726071" Language="SFX">
+					<ShortName>test\F_11.wav</ShortName>
+					<Path>SFX\test\F_11_CC87FBFB.wem</Path>
+				</File>
+				<File Id="682766708" Language="SFX">
+					<ShortName>Drums_kickdrum.WAV</ShortName>
+					<Path>SFX\Drums_kickdrum_FFBE9700.wem</Path>
+				</File>
+				<File Id="694770662" Language="SFX">
+					<ShortName>test\F_20_Tail.wav</ShortName>
+					<Path>SFX\test\F_20_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="699717479" Language="SFX">
+					<ShortName>test\F_14_Tail.wav</ShortName>
+					<Path>SFX\test\F_14_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="712031077" Language="SFX">
+					<ShortName>test\F_07_Tail.wav</ShortName>
+					<Path>SFX\test\F_07_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="714224433" Language="SFX">
+					<ShortName>test\10.wav</ShortName>
+					<Path>SFX\test\10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="714779725" Language="SFX">
+					<ShortName>test\P_05.wav</ShortName>
+					<Path>SFX\test\P_05_CC87FBFB.wem</Path>
+				</File>
+				<File Id="749438425" Language="SFX">
+					<ShortName>test\p21.wav</ShortName>
+					<Path>SFX\test\p21_CC87FBFB.wem</Path>
+				</File>
+				<File Id="757550604" Language="SFX">
+					<ShortName>test\violin_p_07.wav</ShortName>
+					<Path>SFX\test\violin_p_07_CC87FBFB.wem</Path>
+				</File>
+				<File Id="759977451" Language="SFX">
+					<ShortName>test\violin09.wav</ShortName>
+					<Path>SFX\test\violin09_CC87FBFB.wem</Path>
+				</File>
+				<File Id="766396460" Language="SFX">
+					<ShortName>test\15.wav</ShortName>
+					<Path>SFX\test\15_CC87FBFB.wem</Path>
+				</File>
+				<File Id="769049234" Language="SFX">
+					<ShortName>test\17.wav</ShortName>
+					<Path>SFX\test\17_CC87FBFB.wem</Path>
+				</File>
+				<File Id="769988303" Language="SFX">
+					<ShortName>test\P_12.wav</ShortName>
+					<Path>SFX\test\P_12_CC87FBFB.wem</Path>
+				</File>
+				<File Id="774219310" Language="SFX">
+					<ShortName>test\F_01.wav</ShortName>
+					<Path>SFX\test\F_01_CC87FBFB.wem</Path>
+				</File>
+				<File Id="776017734" Language="SFX">
+					<ShortName>test\F_02_Tail.wav</ShortName>
+					<Path>SFX\test\F_02_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="799971734" Language="SFX">
+					<ShortName>test\01.wav</ShortName>
+					<Path>SFX\test\01_CC87FBFB.wem</Path>
+				</File>
+				<File Id="813132291" Language="SFX">
+					<ShortName>test\p10.wav</ShortName>
+					<Path>SFX\test\p10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="824095347" Language="SFX">
+					<ShortName>test\F_12.wav</ShortName>
+					<Path>SFX\test\F_12_CC87FBFB.wem</Path>
+				</File>
+				<File Id="830136849" Language="SFX">
+					<ShortName>App_Button_Slide_Cool_2.wav</ShortName>
+					<Path>SFX\App_Button_Slide_Cool_2_CC87FBFB.wem</Path>
+				</File>
+				<File Id="831450685" Language="SFX">
+					<ShortName>test\p02.wav</ShortName>
+					<Path>SFX\test\p02_CC87FBFB.wem</Path>
+				</File>
+				<File Id="832661788" Language="SFX">
+					<ShortName>test\P_16.wav</ShortName>
+					<Path>SFX\test\P_16_CC87FBFB.wem</Path>
+				</File>
+				<File Id="833984544" Language="SFX">
+					<ShortName>test\violin21.wav</ShortName>
+					<Path>SFX\test\violin21_CC87FBFB.wem</Path>
+				</File>
+				<File Id="841876056" Language="SFX">
+					<ShortName>test\P_13.wav</ShortName>
+					<Path>SFX\test\P_13_CC87FBFB.wem</Path>
+				</File>
+				<File Id="849282338" Language="SFX">
+					<ShortName>test\13.wav</ShortName>
+					<Path>SFX\test\13_CC87FBFB.wem</Path>
+				</File>
+				<File Id="861287655" Language="SFX">
+					<ShortName>test\F_03.wav</ShortName>
+					<Path>SFX\test\F_03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="882639101" Language="SFX">
+					<ShortName>Square_Bubble_Pop_UI.wav</ShortName>
+					<Path>SFX\Square_Bubble_Pop_UI_CC87FBFB.wem</Path>
+				</File>
+				<File Id="883444846" Language="SFX">
+					<ShortName>test\p01.wav</ShortName>
+					<Path>SFX\test\p01_CC87FBFB.wem</Path>
+				</File>
+				<File Id="889819828" Language="SFX">
+					<ShortName>test\violin_p_09.wav</ShortName>
+					<Path>SFX\test\violin_p_09_CC87FBFB.wem</Path>
+				</File>
+				<File Id="897156963" Language="SFX">
+					<ShortName>test\p14.wav</ShortName>
+					<Path>SFX\test\p14_CC87FBFB.wem</Path>
+				</File>
+				<File Id="901603952" Language="SFX">
+					<ShortName>test\p23.wav</ShortName>
+					<Path>SFX\test\p23_CC87FBFB.wem</Path>
+				</File>
+				<File Id="912116798" Language="SFX">
+					<ShortName>test\p18.wav</ShortName>
+					<Path>SFX\test\p18_CC87FBFB.wem</Path>
+				</File>
+				<File Id="919161553" Language="SFX">
+					<ShortName>test\12.wav</ShortName>
+					<Path>SFX\test\12_CC87FBFB.wem</Path>
+				</File>
+				<File Id="926498856" Language="SFX">
+					<ShortName>test\p03.wav</ShortName>
+					<Path>SFX\test\p03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="929319719" Language="SFX">
+					<ShortName>test\F_06_Tail.wav</ShortName>
+					<Path>SFX\test\F_06_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="946148541" Language="SFX">
+					<ShortName>ArcadeButtonPush_BW.49313.wav</ShortName>
+					<Path>SFX\ArcadeButtonPush_BW.49313_CC87FBFB.wem</Path>
+				</File>
+				<File Id="949452390" Language="SFX">
+					<ShortName>test\violin_p_06.wav</ShortName>
+					<Path>SFX\test\violin_p_06_CC87FBFB.wem</Path>
+				</File>
+				<File Id="960405838" Language="SFX">
+					<ShortName>test\violin_p_10.wav</ShortName>
+					<Path>SFX\test\violin_p_10_CC87FBFB.wem</Path>
+				</File>
+				<File Id="964404469" Language="SFX">
+					<ShortName>test\07.wav</ShortName>
+					<Path>SFX\test\07_CC87FBFB.wem</Path>
+				</File>
+				<File Id="969069803" Language="SFX">
+					<ShortName>test\violin05.wav</ShortName>
+					<Path>SFX\test\violin05_CC87FBFB.wem</Path>
+				</File>
+				<File Id="977875938" Language="SFX">
+					<ShortName>test\F_02.wav</ShortName>
+					<Path>SFX\test\F_02_CC87FBFB.wem</Path>
+				</File>
+				<File Id="989988390" Language="SFX">
+					<ShortName>test\violin17.wav</ShortName>
+					<Path>SFX\test\violin17_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1003715159" Language="SFX">
+					<ShortName>test\20.wav</ShortName>
+					<Path>SFX\test\20_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1006891735" Language="SFX">
+					<ShortName>test\22.wav</ShortName>
+					<Path>SFX\test\22_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1010429954" Language="SFX">
+					<ShortName>test\p06.wav</ShortName>
+					<Path>SFX\test\p06_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1032927043" Language="SFX">
+					<ShortName>test\P_08.wav</ShortName>
+					<Path>SFX\test\P_08_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1045349316" Language="SFX">
+					<ShortName>test\F_04_Tail.wav</ShortName>
+					<Path>SFX\test\F_04_Tail_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1056511208" Language="SFX">
+					<ShortName>test\violin11.wav</ShortName>
+					<Path>SFX\test\violin11_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1056594259" Language="SFX">
+					<ShortName>test\04.wav</ShortName>
+					<Path>SFX\test\04_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1061103395" Language="SFX">
+					<ShortName>test\violin20.wav</ShortName>
+					<Path>SFX\test\violin20_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1061309036" Language="SFX">
+					<ShortName>test\21.wav</ShortName>
+					<Path>SFX\test\21_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1061695374" Language="SFX">
+					<ShortName>test\P_03.wav</ShortName>
+					<Path>SFX\test\P_03_CC87FBFB.wem</Path>
+				</File>
+				<File Id="1063626033" Language="SFX">
+					<ShortName>Drums_hihat_closed.WAV</ShortName>
+					<Path>SFX\Drums_hihat_closed_09A89E91.wem</Path>
+				</File>
+				<File Id="1068976430" Language="SFX">
+					<ShortName>Drums_crash_2.WAV</ShortName>
+					<Path>SFX\Drums_crash_2_1AAA4321.wem</Path>
+				</File>
+				<File Id="1069564823" Language="SFX">
+					<ShortName>test\violin_p_14.wav</ShortName>
+					<Path>SFX\test\violin_p_14_CC87FBFB.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,48 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2012657067	New_State_Group			\Default Work Unit\New_State_Group	
+	3468991076	GuitarTails			\Default Work Unit\GuitarTails	
+	3991942870	Music			\Default Work Unit\Music	
+
+State	ID	Name	State Group			Notes
+	0	None	New_State_Group			
+	2021425847	New_State	New_State_Group			
+	0	None	GuitarTails			
+	930712164	Off	GuitarTails			
+	1651971902	On	GuitarTails			
+	0	None	Music			
+	1973439776	Music_05	Music			
+	1973439777	Music_04	Music			
+	1973439778	Music_07	Music			
+	1973439779	Music_06	Music			
+	1973439780	Music_01	Music			
+	1973439782	Music_03	Music			
+	1973439783	Music_02	Music			
+	1973439788	Music_09	Music			
+	1973439789	Music_08	Music			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Reverb	
+	2415836739	Volume			\Default Work Unit\Volume	
+	2688591989	New_Acoustic_Texture			\Default Work Unit\New_Acoustic_Texture	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	731574912	InReverb			\Default Work Unit\Master Audio Bus\InReverb	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	3364015539	OutReverb			\Default Work Unit\Master Audio Bus\OutReverb	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Reverb	
+	4056223263	Tremolo			\Default Work Unit\Master Audio Bus\Tremolo	
+
+Effect plug-ins	ID	Name	Type				Notes
+	265616398	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	506102318	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	989005182	Holy_(Define_custom)	Wwise RoomVerb			
+	1008723532	Rhythmic_Talk (Define custom)	Wwise Tremolo			
+	1459522457	Brick_Wall_Minus_1dB_Peak_Fast_Release	Wwise Peak Limiter			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+
