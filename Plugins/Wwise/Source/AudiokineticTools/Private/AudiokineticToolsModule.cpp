@@ -29,6 +29,7 @@
 #include "AssetTypeActions_AkAudioEvent.h"
 #include "AssetTypeActions_AkAuxBus.h"
 #include "AssetTypeActions_AkAcousticTexture.h"
+#include "AssetTypeActions_AkMidiMessage.h"
 #include "Editor/LevelEditor/Public/LevelEditor.h"
 #include "ISettingsModule.h"
 #include "ISettingsSection.h"
@@ -333,6 +334,9 @@ class FAudiokineticToolsModule : public IAudiokineticTools
 		AkAcousticTextureAssetTypeActions = MakeShareable(new FAssetTypeActions_AkAcousticTexture(AudiokineticAssetCategoryBit));
 		AssetTools.RegisterAssetTypeActions(AkAcousticTextureAssetTypeActions.ToSharedRef());
 
+		AkMidiMessageAssetTypeActions = MakeShareable(new FAssetTypeActions_AkMidiMessage(AudiokineticAssetCategoryBit));
+		AssetTools.RegisterAssetTypeActions(AkMidiMessageAssetTypeActions.ToSharedRef());
+
 		if ( FModuleManager::Get().IsModuleLoaded( "LevelEditor" ) )
 		{
 			// Extend the build menu to handle Audiokinetic-specific entries
@@ -398,10 +402,12 @@ class FAudiokineticToolsModule : public IAudiokineticTools
 			FModuleManager::GetModuleChecked< FAssetToolsModule >( "AssetTools" ).Get().UnregisterAssetTypeActions( AkAudioBankAssetTypeActions.ToSharedRef() );
 			FModuleManager::GetModuleChecked< FAssetToolsModule >( "AssetTools" ).Get().UnregisterAssetTypeActions( AkAudioEventAssetTypeActions.ToSharedRef() );
 			FModuleManager::GetModuleChecked< FAssetToolsModule >( "AssetTools" ).Get().UnregisterAssetTypeActions( AkAcousticTextureAssetTypeActions.ToSharedRef() );
+			FModuleManager::GetModuleChecked< FAssetToolsModule >("AssetTools").Get().UnregisterAssetTypeActions(AkMidiMessageAssetTypeActions.ToSharedRef());
 		}
 		AkAudioBankAssetTypeActions.Reset();
 		AkAudioEventAssetTypeActions.Reset();
 		AkAcousticTextureAssetTypeActions.Reset();
+		AkMidiMessageAssetTypeActions.Reset();
 
 		// Remove Audiokinetic build menu extenders
 		if ( FModuleManager::Get().IsModuleLoaded( "LevelEditor" ) )
@@ -632,6 +638,7 @@ private:
 	TSharedPtr<FAssetTypeActions_AkAudioEvent> AkAudioEventAssetTypeActions;
 	TSharedPtr<FAssetTypeActions_AkAuxBus> AkAuxBusAssetTypeActions;
 	TSharedPtr<FAssetTypeActions_AkAcousticTexture> AkAcousticTextureAssetTypeActions;
+	TSharedPtr< FAssetTypeActions_AkMidiMessage > AkMidiMessageAssetTypeActions;
 	TSharedPtr<FExtender> MainMenuExtender;
 	FLevelEditorModule::FLevelEditorMenuExtender LevelViewportToolbarBuildMenuExtenderAk;
 	FDelegateHandle LevelViewportToolbarBuildMenuExtenderAkHandle;

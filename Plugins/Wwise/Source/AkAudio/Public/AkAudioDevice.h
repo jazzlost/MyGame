@@ -78,6 +78,9 @@ struct AkGameObjectIdKeyFuncs : TDefaultMapKeyFuncs<AkGameObjectID, ValueType, b
 struct AKAUDIO_API FAkAudioDeviceDelegates
 {
 	DECLARE_MULTICAST_DELEGATE_TwoParams(FOnAkGlobalCallback, AK::IAkGlobalPluginContext*, AkGlobalCallbackLocation);
+	
+	//Callback Delegate For AkMIDI Module Event Post
+	DECLARE_DELEGATE_OneParam(FOnAkMIDIGlobalCallback, AkAudioSettings*);
 };
 
 
@@ -570,6 +573,34 @@ public:
 		);
 
 	/**
+	 * Post a MIDI Event to ak soundengine
+	 *
+	 * @param in_Event			AkAudioEvent To Trigger By Midi
+	 * @param in_gameObjectID	GameObject ID on which to post the Midi Event
+	 * @param in_pPosts			Midi Message To Post
+	 * @param in_uNumPosts		Number Of Midi Message
+	 * @return Result from ak sound engine
+	 */
+	AKRESULT PostMidiEvent(
+		UAkAudioEvent* in_Event,
+		AkGameObjectID in_gameObjectID,
+		AkMIDIPost* in_pPosts,
+		AkUInt16 in_uNumPosts
+		);
+
+	/**
+	 * Post a MIDI Event to ak soundengine
+	 *
+	 * @param in_Event			AkAudioEvent To Stop
+	 * @param in_gameObjectID	GameObject ID on which to Stop the Midi Event
+	 * @return Result from ak sound engine
+	 */
+	AKRESULT StopMidiEvent(
+		UAkAudioEvent* in_Event,
+		AkGameObjectID in_gameObjectID
+		);
+
+	/**
 	 * Set a RTPC in ak soundengine
 	 *
 	 * @param in_pszRtpcName	Name of the RTPC
@@ -854,6 +885,11 @@ public:
 	 * @return	Returns the handle of the delegate that must be used to unregister the callback.
 	 */
 	FDelegateHandle RegisterGlobalCallback(FAkAudioDeviceDelegates::FOnAkGlobalCallback::FDelegate Callback, AkGlobalCallbackLocation Location);
+
+	/**
+	 * AkMIDIGlobalCallback Instance, Bind Callback Function On AkMIDI Module
+	 */
+	FAkAudioDeviceDelegates::FOnAkMIDIGlobalCallback OnMessageWaitToSend;
 
 	/**
 	 * Unregisters a callback that can run within the global callback at a specific AkGlobalCallbackLocation.

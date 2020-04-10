@@ -199,6 +199,18 @@ namespace FAkAudioDevice_Helpers
 	}
 }
 
+//Wwise Midi Output Callback
+void MidiCallback(AK::IAkGlobalPluginContext *in_pContext, AkGlobalCallbackLocation in_eLocation, void *in_pCookie)
+{
+	FAkAudioDevice *Device = FAkAudioDevice::Get();
+
+	if (Device)
+	{
+		Device->OnMessageWaitToSend.ExecuteIfBound((AkAudioSettings *)in_pCookie);
+		//UE_LOG(LogTemp, Warning, TEXT("WwiseCallback_Device"));
+	}
+}
+
 /*------------------------------------------------------------------------------------
 	Implementation
 ------------------------------------------------------------------------------------*/
@@ -467,6 +479,12 @@ bool FAkAudioDevice::Init( void )
 		);
 	}
 #endif
+
+	//Register MIDI Callback Interface For Syncing Render Process
+	AkAudioSettings audioSettings;
+	AK::SoundEngine::GetAudioSettings(audioSettings);
+	AK::SoundEngine::RegisterGlobalCallback(MidiCallback, AkGlobalCallbackLocation_PreProcessMessageQueueForRender, &audioSettings);
+
 	UE_LOG(LogInit, Log, TEXT("Audiokinetic Audio Device initialized."));
 
 	return 1;
@@ -3090,5 +3108,20 @@ AKRESULT FAkAudioDevice::RegisterPluginDLL(const FString& in_DllName, const FStr
 	AKRESULT eResult = AK::SoundEngine::RegisterPluginDLL(TCHAR_TO_AK(*in_DllName), szPath);
 	delete[] szPath;
 	return eResult;
+}
+AKRESULT FAkAudioDevice::PostMidiEvent(
+	UAkAudioEvent *in_Event,
+	AkGameObjectID in_gameObjectID,
+	AkMIDIPost *in_pPosts,
+	AkUInt16 in_uNumPosts)
+{
+	AkUniqueID EventID = GetIDFromString(in_Event->GetName());
+	return AK::SoundEngine::PostMIDIOnEvent(EventID, in_gameObjectID, in_pPosts, in_uNumPosts);
+}
+
+AKRESULT FAkAudioDevice::StopMidiEvent(UAkAudioEvent *in_Event, AkGameObjectID in_gameObjectID)
+{
+	AkUniqueID EventID = GetIDFromString(in_Event->GetName());
+	return AK::SoundEngine::StopMIDIOnEvent(EventID, in_gameObjectID);
 }
 // end

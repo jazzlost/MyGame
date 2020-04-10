@@ -59,7 +59,8 @@ public class AudiokineticTools : ModuleRules
 				"MovieSceneTools",
 				"MovieSceneTracks",
 				"MatineeToLevelSequence",
-                "RenderCore"
+                "RenderCore",
+                "AkMIDI"
 			});
 	}
 }
