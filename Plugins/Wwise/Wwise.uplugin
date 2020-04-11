@@ -21,7 +21,12 @@
 		{
 			"Name" : "AudiokineticTools",
 			"Type" : "Editor"
-		}
+		},
+	    {
+        "Name": "AkMIDI",
+        "Type": "Runtime",
+        "LoadingPhase": "PreDefault"
+      }
 	],
 	
 	"Plugins":
